@@ -10,6 +10,7 @@
 8. git branch #para saber en que rama estamos
 9. git checkout master #nos regresa a la rama principal
 10. git branch -d rama-heroes #para eliminar una rama
+11. trabajo realizado por fjmurillov3743 
 
 
 
